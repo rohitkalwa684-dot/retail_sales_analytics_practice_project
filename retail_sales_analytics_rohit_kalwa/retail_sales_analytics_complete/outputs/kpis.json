@@ -1,0 +1,11 @@
+{
+  "total_sales": 11701473.61,
+  "total_profit": 3870628.16,
+  "unique_orders": 1194,
+  "units_sold": 5339,
+  "average_order_value": 9800.23,
+  "profit_margin_pct": 33.08,
+  "raw_rows": 1208,
+  "exact_duplicate_rows_removed": 7,
+  "cleaned_rows": 1194
+}
